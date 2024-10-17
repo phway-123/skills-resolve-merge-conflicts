@@ -1,9 +1,10 @@
 # GitHub Teacher
 
 Charting the knowledge of the Internet, just like Galileo charted the stars.
-Enter some text that conflicts with what we added for references.md in the main branch.
 
-## Jobs
+
+
+
 
 ### GitHub Trainer
 
